@@ -1,0 +1,50 @@
+[OPTIONS]
+Compatibility=1.0
+Compiled file=SC-QuickStart.chm
+Contents file=Table of Contents SC-QuickSTart.hhc
+Default Window=default
+Default topic=web\GStarted\intro.htm
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=SC-QuickStart Help
+
+[WINDOWS]
+default="SC-QuickStart Help","Table of Contents SC-QuickSTart.hhc",,"web\GStarted\intro.htm",,,,,,0x2520,,0x3006,,,,,,,,0
+
+
+[FILES]
+web\GStarted\intro.htm
+web\GStarted\order.htm
+web\operations\config.htm
+web\qsocw\finish.htm
+web\qsocw\hotrec.htm
+web\qsocw\oad.htm
+web\qsocw\oaf.htm
+web\qsocw\qsocw.htm
+web\qsocw\sap.htm
+web\qsocw\sat.htm
+web\qsocw\type.htm
+
+[ALIAS]
+IDH_QUICKSTART_CONFIG=web\operations\config.htm
+IDH_QUICKSTART_DIALOG=web\GStarted\intro.htm
+IDH_WELCOME=web\GStarted\order.htm
+IDH_REGISTER=web\GStarted\order.htm
+IDH_SELECT_PROGRAM=web\qsocw\sap.htm
+IDH_ADDQSO_TYPE=web\qsocw\type.htm
+IDH_ADDQSO_PROGRAM=web\qsocw\sap.htm
+IDH_ADDQSO_TASK=web\qsocw\sat.htm
+IDH_ADDQSO_FOLDER=web\qsocw\oaf.htm
+IDH_ADDQSO_DOC=web\qsocw\oad.htm
+IDH_ADDQSO_NAME=web\qsocw\finish.htm
+IDH_ADDQSO_SUM=web\qsocw\finish.htm
+IDH_ADDQSO_HOTKEY=web\qsocw\hotrec.htm
+IDH_ADDQSO_HOTKEY_RECORD=web\qsocw\hotrec.htm
+
+
+[MAP]
+#include SC-QuickStart.hm
+
+[INFOTYPES]
+

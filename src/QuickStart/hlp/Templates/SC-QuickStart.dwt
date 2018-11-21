@@ -1,0 +1,21 @@
+<!-- #BeginEditable "doctitle" -->
+<title>Introducing SC-QuickStart</title>
+<!-- #EndEditable -->
+<link rel="stylesheet" href="../web/Templates/qs.css" type="text/css">
+
+<link rel="stylesheet" href="../web/qs.css" type="text/css">
+<link rel="stylesheet" href="../web/qs.css" type="text/css">
+<body bgcolor="#FFFFFF" class="Body">
+<table width="99%" border="0" cellspacing="0" cellpadding="12" height="100%">
+  <tr>
+    <td width="7%" bgcolor="#191991">&nbsp;</td>
+    <td width="93%" valign="top"> 
+      <p class="HdrBig">&nbsp;</p>
+      <p class="HdrBig"><!-- #BeginEditable "Title" -->Title<!-- #EndEditable --><br>
+        <img src="../web/res/thinblueline.gif" width="427" height="5"></p>
+      <br>
+        <!-- #BeginEditable "Body" -->{Body}<!-- #EndEditable -->
+      </td>
+  </tr>
+</table>
+<p class="HdrBig">&nbsp;</p>

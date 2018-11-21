@@ -1,0 +1,211 @@
+SC-QuickStart(R) Version 1.0
+Copyright (C) 2002 Soft-Central
+All Rights Reserved
+
+For ordering information, see the file SC-QuickStart.chm.
+
+*** SC-QuickStart STANDARD LICENSE ***
+
+This license applies to the standard-licensed version of SC-QuickStart. 
+If you have an evaluation version of SC-QuickStart, see the section
+below titled SC-QuickStart Evaluation License.
+
+SC-QuickStart LICENSE
+Soft-Central
+
+YOUR AGREEMENT TO THIS LICENSE
+
+You should carefully read the following terms and conditions
+before using, installing or distributing this software.  Unless
+you have a different license agreement signed by Soft-Central
+your use, distribution, or installation of SC-QuickStart indicates 
+your acceptance of this agreement ("License").
+
+If you do not agree to all of the terms and conditions of this
+License, then do not copy, install, distribute or use any
+copy of SC-QuickStart with which this License is included.
+
+The terms and conditions of this License describe the permitted
+use and user(s) of each Licensed Copy of SC-QuickStart.  For purposes of
+this License, if you have a valid single-copy license, you have
+the right to use a single "Licensed Copy" of SC-QuickStart; if you or
+your organization has a valid multi-user license, then you or
+your organization have/has the right to use up to a number of
+"Licensed Copies" of SC-QuickStart equal to the number of copies
+indicated in the documents issued by Soft-Central when granting the
+license.
+
+SCOPE OF LICENSE
+
+Each Licensed Copy of SC-QuickStart may either be used by a single
+person who uses the software personally on one computer,
+or installed on a single workstation used  nonsimultaneously by
+multiple people, but not both. This is not a concurrent use
+license.
+
+Each Licensed Copy may be accessed through a network, provided
+that you have purchased rights to use a Licensed Copy for each
+workstation that will access SC-QuickStart through the network.  For
+instance, if 8 different workstations will access SC-QuickStart on the
+network, you must purchase rights to use 8 Licensed Copies of
+SC-QuickStart, regardless of whether the 8 workstations will access
+SC-QuickStart at different times or concurrently.
+
+All rights of any kind in SC-QuickStart which are not expressly granted
+in this License are entirely and exclusively reserved to and by
+Soft-Central.  You may not rent, lease, modify, translate, reverse
+engineer, decompile, disassemble, or create derivative works
+based on, SC-QuickStart, nor permit anyone else to do so. You may not
+make access to SC-QuickStart available to others in connection with a
+service bureau, application service provider, or similar
+business, nor permit anyone else to do so.
+
+WARRANTY DISCLAIMERS AND LIABILITY LIMITATIONS
+
+SC-QuickStart, AND ANY AND ALL ACCOMPANYING SOFTWARE, FILES, DATA AND
+MATERIALS, ARE DISTRIBUTED AND PROVIDED "AS IS" AND WITH NO
+WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. You
+acknowledge that good data processing procedure dictates that any
+program, including SC-QuickStart, must be thoroughly tested with
+non-critical data before there is any reliance on it, and you
+hereby assume the entire risk of all use of the copies of SC-QuickStart
+covered by this License.  THIS DISCLAIMER OF WARRANTY CONSTITUTES
+AN ESSENTIAL PART OF THIS LICENSE.
+
+ANY LIABILITY OF Soft-Central WILL BE LIMITED EXCLUSIVELY TO REFUND OF
+PURCHASE PRICE.  IN ADDITION, IN NO EVENT SHALL Soft-Central, OR ITS
+PRINCIPALS, SHAREHOLDERS, OFFICERS, EMPLOYEES, AFFILIATES,
+CONTRACTORS, SUBSIDIARIES, OR PARENT ORGANIZATIONS, BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+WHATSOEVER RELATING TO THE USE OF SC-QuickStart, OR TO YOUR RELATIONSHIP
+WITH Soft-Central.
+
+IN ADDITION, IN NO EVENT DOES Soft-Central AUTHORIZE YOU OR ANYONE ELSE TO
+USE SC-QuickStart IN APPLICATIONS OR SYSTEMS WHERE SC-QuickStart'S FAILURE TO
+PERFORM CAN REASONABLY BE EXPECTED TO RESULT IN A SIGNIFICANT
+PHYSICAL INJURY, OR IN LOSS OF LIFE.  ANY SUCH USE IS ENTIRELY AT
+YOUR OWN RISK, AND YOU AGREE TO HOLD Soft-Central HARMLESS FROM ANY AND
+ALL CLAIMS OR LOSSES RELATING TO SUCH UNAUTHORIZED USE.
+
+GENERAL
+
+This License is the complete statement of the agreement between
+the parties on the subject matter, and merges and supersedes all
+other or prior understandings, purchase orders, agreements and
+arrangements.  This License shall be governed by the laws of the
+State of Connecticut, without regard to Connecticut choice-of-law
+rules.  Exclusive jurisdiction and venue for all matters relating
+to this License shall be in courts and fora located in the State
+of Connecticut, and you consent to such jurisdiction and venue.
+There are no third party beneficiaries of any promises,
+obligations or representations made by Soft-Central herein.    Any waiver
+by Soft-Central of any violation of this License by you shall not
+constitute, nor contribute to, a waiver by Soft-Central of any other or
+future violation of the same provision, or any other provision,
+of this License.
+
+*** SC-QuickStart EVALUATION LICENSE ***
+
+This license applies to the evaluation version of SC-QuickStart.  If you
+do not have an evaluation version of SC-QuickStart, see the section
+above titled SC-QuickStart Standard License.
+
+SC-QuickStart LICENSE
+EVALUATION VERSION
+Soft-Central
+
+YOUR AGREEMENT TO THIS LICENSE
+
+By using, copying, transmitting, distributing or installing
+SC-QuickStart 1.0 ("SC-QuickStart"), you agree to all of the terms of this
+agreement ("License").
+
+Please read the license terms below.  If you do not agree to all
+of the terms of this License, then do not use, copy, transmit,
+distribute, or install SC-QuickStart.
+
+SCOPE OF LICENSE
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed by Soft-Central to use one copy of SC-QuickStart, 
+on one (1) computer or workstation, for evaluation purposes without
+charge for a period of 30 days. If you use this software after the 
+30 day evaluation period a registration fee of $15 is required.
+See the Soft-Central web site at www.soft-central.net for information
+about online ordering and quantity discounts.
+
+Unregistered use of SC-QuickStart after the 30-day evaluation period is
+in violation of U.S. and international copyright laws.
+
+You may, without making any payment to Soft-Central:
+
+    a)  give exact copies of this evaluation version of SC-QuickStart
+        personally to anyone, except for the purpose of extending
+        their 30 day evaluation period;
+
+    b)  distribute exact copies of this evaluation version of
+        SC-QuickStart, if done exclusively through electronic channels;
+        and
+
+    c)  make as many exact copies of this evaluation version of
+        SC-QuickStart as you wish, for purposes of distribution as
+        described in (a) and (b) above.
+
+YOU ARE SPECIFICALLY PROHIBITED FROM CHARGING, OR REQUESTING
+DONATIONS, FOR ANY COPIES, HOWEVER MADE, AND FROM DISTRIBUTING
+SUCH COPIES WITH OTHER PRODUCTS OF ANY KIND, COMMERCIAL OR
+OTHERWISE, WITHOUT PRIOR WRITTEN PERMISSION FROM Soft-Central. 
+Soft-Central RESERVES THE RIGHT TO REVOKE THE ABOVE DISTRIBUTION 
+RIGHTS AT ANY TIME, FOR ANY OR NO REASON.
+
+All rights of any kind in SC-QuickStart which are not expressly granted
+in this License are entirely and exclusively reserved to and by
+Soft-Central.  You may not rent, lease, modify, translate, reverse
+engineer, decompile, disassemble, or create derivative works
+based on, SC-QuickStart. You may not make access to SC-QuickStart available to
+others in connection with a service bureau, application service
+provider, or similar business.
+
+
+WARRANTY DISCLAIMERS AND LIABILITY LIMITATIONS
+
+SC-QuickStart, AND ANY AND ALL ACCOMPANYING SOFTWARE, FILES, DATA AND
+MATERIALS, ARE DISTRIBUTED AND PROVIDED "AS IS" AND WITH NO
+WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. You acknowledge
+that good data processing procedure dictates that any program, 
+including SC-QuickStart, must be thoroughly tested with
+non-critical data before you rely on it, and you hereby assume
+the entire risk of using the program.  THIS DISCLAIMER OF
+WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE.
+
+ANY LIABILITY OF Soft-Central WILL BE LIMITED EXCLUSIVELY TO REFUND OF
+PURCHASE PRICE, IF ANY.  IN ADDITION, IN NO EVENT SHALL Soft-Central, OR
+ITS PRINCIPALS, SHAREHOLDERS, OFFICERS, EMPLOYEES, AFFILIATES,
+CONTRACTORS, SUBSIDIARIES, OR PARENT ORGANIZATIONS, BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+WHATSOEVER RELATING TO THE USE OF SC-QuickStart, OR TO YOUR RELATIONSHIP
+WITH Soft-Central.
+
+IN ADDITION, IN NO EVENT DOES Soft-Central AUTHORIZE YOU TO USE SC-QuickStart IN
+APPLICATIONS OR SYSTEMS WHERE SC-QuickStart'S FAILURE TO PERFORM CAN
+REASONABLY BE EXPECTED TO RESULT IN A SIGNIFICANT PHYSICAL
+INJURY, OR IN LOSS OF LIFE.  ANY SUCH USE BY YOU IS ENTIRELY AT
+YOUR OWN RISK, AND YOU AGREE TO HOLD Soft-Central HARMLESS FROM ANY AND
+ALL CLAIMS OR LOSSES RELATING TO SUCH UNAUTHORIZED USE.
+
+GENERAL
+
+This License is the complete statement of the agreement between
+the parties on the subject matter, and merges and supersedes all
+other or prior understandings, purchase orders, agreements and
+arrangements.  This License shall be governed by the laws of the
+State of Connecticut, without regard to Connecticut choice-of-law
+rules.  Exclusive jurisdiction and venue for all matters relating
+to this License shall be in courts and fora located in the State
+of Connecticut, and you consent to such jurisdiction and venue.
+There are no third party beneficiaries of any promises,
+obligations or representations made by Soft-Central herein.  Any waiver by
+Soft-Central of any violation of this License by you shall not constitute
+or contribute to a waiver of any other or future violation by you
+of the same provision, or any other provision, of this License.
+
